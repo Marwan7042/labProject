@@ -1,5 +1,5 @@
 ## if you want to install 
-* run: git clone "the repo's url"
+* run: git clone "paste the repo's url"
 
 ## to run locally you have to install the dependancies
 * run: pip install numpy matplotlib scipy
